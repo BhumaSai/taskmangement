@@ -32,7 +32,7 @@ A full-stack Task Tracker application built with the MERN stack (MongoDB, Expres
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/BhumaSai/GIGDE_ASSIGNMENT.git
+git clone https://github.com/BhumaSai/taskmangement.git
 cd GIGDE_ASSIGNMENT
 ```
 
